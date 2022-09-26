@@ -36,6 +36,7 @@ function save(){
 
 function reset() {
     count = 0
+    // entries.textContent = 
     console.log("reset")
     ppl.innerHTML = count
 }
